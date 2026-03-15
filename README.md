@@ -1,7 +1,7 @@
 # Airbnb Data Visualization & Market Analysis (NYC)
 A comprehensive data analysis of the New York City Airbnb market, focusing on rental trends across boroughs, competitive pricing in Queens, and ROI calculations for property renovations.
 
-📄 [View Full Analysis (PDF)](/Airbnb_Data_Visualization.pdf)
+📄 [View Full Analysis (PDF)](Airbnb_Data_Visualization.pdf)
 
 ---
 
